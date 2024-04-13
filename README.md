@@ -1,6 +1,6 @@
 # azkarel_yom
 
-A new Flutter project.
+Azkar AL Youm a mobile Application made for morning and evening Azkar, have a Different methods for tasbih, Adding morning and night’s Azkar, implemented using flutter.
 
 ## Getting Started
 
